@@ -70,3 +70,10 @@ h3 {
 .btn:focus{
     outline: 0;
 }
+
+@media only screen and (max-width: 500px){
+    .container {
+        max-width: 100%;
+        width: 300px;
+    }
+}
