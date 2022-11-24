@@ -29,6 +29,13 @@ body{
 
 }
 
+.footer {
+    background-color: transparent;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: hsl(0, 0%, 90%);
+}
+
 h3 {
     margin: 0;
     opacity: 0.5;
